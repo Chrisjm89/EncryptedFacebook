@@ -1,0 +1,13 @@
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\bin\Release\alphaFBapi.exe.config
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\bin\Release\alphaFBapi.exe
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\bin\Release\alphaFBapi.pdb
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\bin\Release\FacebookAPI.dll
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\bin\Release\FacebookAPI.pdb
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\obj\x86\Release\alphaFBapi.LogInForm.resources
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\obj\x86\Release\alphaFBapi.MainView.resources
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\obj\x86\Release\alphaFBapi.Properties.Resources.resources
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\obj\x86\Release\alphaFBapi.exe
+C:\Users\Victor\documents\visual studio 2010\Projects\alphaFBapi\alphaFBapi\obj\x86\Release\alphaFBapi.pdb
